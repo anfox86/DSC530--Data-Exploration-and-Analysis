@@ -1,2 +1,1 @@
-# DSC530-EDA
-This course introduces complex techniques needed for profiling and exploring data. Students use programming and statistics-based inference to ask and answer insightful questions of data. 
+This project looked at Medicare data for SNF (Skilled Nursing Facilities) in the year 2015. The goal was to find out whether the top 10 poorest states received a higher or lower reimbursement from Medicare compared to the top 10 wealthiest states. 
